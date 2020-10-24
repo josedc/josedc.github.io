@@ -3,7 +3,7 @@
 ## Tour
 
 ### Title
-tour.name = Untitled 9
+tour.name = Esplanade
 
 ## Media
 
