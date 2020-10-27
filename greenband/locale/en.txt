@@ -5,6 +5,11 @@
 ### Title
 tour.name = Green Band
 
+## Skin
+
+### Label
+Label_795BEF6C_69F3_C23C_41D8_2C0D96B74701.text = Green Band
+
 ## Media
 
 ### Title
