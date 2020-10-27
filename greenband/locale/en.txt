@@ -1,0 +1,12 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Green Band
+
+## Media
+
+### Title
+panorama_6375C3F6_6990_C22D_41D3_D3C949CBC3C1.label = Esplanade_Stage_20201012_111321
+video_65A9D33B_6990_421B_41CE_C84695773670.label = Free Green Screen Footage _ Real Band
