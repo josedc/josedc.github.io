@@ -1,0 +1,22 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = CCM Maintenance
+
+## Skin
+
+### Multiline Text
+HTMLText_8CE55828_9DD6_9BE8_41B9_CDA21C02E743.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Pano 2</B></SPAN></SPAN></DIV></div>
+HTMLText_934104B4_9DCA_B4F8_41C6_1FBB49746C4C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Pano 3</B></SPAN></SPAN></DIV></div>
+HTMLText_93531ED9_9DCF_94A8_41CB_039C3F78DE5F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Pano 1</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_8CAA26D8_9DDA_F4A8_41DC_A2D6509CDE95.label = VID_20190913_110715x2
+panorama_8CCE91CF_9DD9_8CA8_41CF_C1C178D69771.label = IMG_20190913_105653x2
+panorama_90D5366E_9DBF_B468_41B4_1EDA28E8B11B.label = IMG_20190913_111048x2
