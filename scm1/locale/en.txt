@@ -1,0 +1,28 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = SEG COI-SCM
+
+## Media
+
+### Title
+album_9EC841DA_9174_4F60_415B_11F519D3EA8D.label = Photo Album Screenshot 2020-11-04 115328
+album_9EC841DA_9174_4F60_415B_11F519D3EA8D_0.label = Screenshot 2020-11-04 115328
+panorama_989E4169_9154_4F20_41C6_7F6AEF344E31.label = IMG_20201104_110121_00_merged
+panorama_98C00BDA_9154_D363_41C5_28D3E4D39D5D.label = IMG_20201104_110523_00_merged
+panorama_98C0131F_9154_CCE0_41D7_5601F0375EB1.label = IMG_20201104_110918_00_merged
+panorama_98C03220_9154_4D20_41DD_B1E3F69C192A.label = IMG_20201104_111625_00_merged
+panorama_98C06615_9154_54E0_41DD_26782F5229DA.label = IMG_20201104_111312_00_merged
+panorama_98C0CEC6_9154_D563_41DC_AA377B8815A0.label = IMG_20201104_111034_00_merged
+panorama_98C0E778_9154_F32F_41A9_5CEEE576F448.label = IMG_20201104_110829_00_merged
+panorama_98C0FA90_9154_BDE0_41B9_DC8ABF901576.label = IMG_20201104_111218_00_merged
+panorama_98C2B07D_9154_CD20_41D2_1F9BA46DADCC.label = IMG_20201104_110232_00_merged
+
+## Popup
+
+### Body
+htmlText_80E33959_9177_BF60_41B7_65EA3FE66ED7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This is supposed to be info about the hotspot.</SPAN></DIV></BODY></HTML></div>
