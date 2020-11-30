@@ -1,8 +1,8 @@
 {
- "background_color": "#FFFFFF",
- "description": "Prototype Hybrid Bus Decomm",
- "start_url": "index.htm",
  "name": "SBST",
+ "theme_color": "#FFFFFF",
+ "description": "Prototype Hybrid Bus Decomm",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +40,6 @@
    "sizes": "64x64"
   }
  ],
- "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
  "display": "fullscreen"
 }
