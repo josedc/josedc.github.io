@@ -1,0 +1,36 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 18
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_5901ABBC_5047_C801_41C6_1D6F6469C626.label = [Untitled]_2-18
+panorama_59030E66_5047_4801_418F_36ECBDF2D521.label = [Untitled]_9-18
+panorama_59030EC7_5047_480F_41A7_94B9427DD439.label = [Untitled]_15-18
+panorama_5903104B_5046_D807_41D1_EF072076194F.label = [Untitled]_17-18
+panorama_59031E65_5047_4803_41B0_4716B66CAA88.label = [Untitled]_13-18
+panorama_59031E7D_5047_4803_41C8_7AC76EC007CA.label = [Untitled]_11-18
+panorama_5903218D_5047_D803_41C1_52288E6F337B.label = [Untitled]_5-18
+panorama_590338DE_5047_C801_41D3_77009220CB58.label = [Untitled]_6-18
+panorama_5903569C_5047_3801_41D1_D09E6B9EA080.label = [Untitled]_16-18
+panorama_590368AC_5046_C801_41D1_53A202845C78.label = [Untitled]_18-18
+panorama_59037A4E_5047_C801_417D_0B04A77EAD48.label = [Untitled]_4-18
+panorama_5903B7D0_5047_3801_41C1_A0C5C3F78871.label = [Untitled]_8-18
+panorama_5903C640_5047_5801_41C4_351EB1E8F79E.label = [Untitled]_14-18
+panorama_5903D6A9_5047_5803_4185_DBEBD3661F77.label = [Untitled]_10-18
+panorama_5903E399_5047_F803_41BC_8CC959CA9AA4.label = [Untitled]_3-18
+panorama_5903F04D_5047_3803_41D2_A769CDCD7896.label = [Untitled]_7-18
+panorama_5903F62F_5047_781F_41CA_0F23DD455730.label = [Untitled]_12-18
+panorama_5A6D12C3_5047_D807_41C3_F5EFA57F943B.label = [Untitled]_1-18
