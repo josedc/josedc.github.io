@@ -1,7 +1,5 @@
 {
  "name": "Ubin Kayak Proto",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +37,8 @@
    "src": "misc/icon64.png"
   }
  ],
+ "start_url": "index.htm",
  "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "display": "fullscreen"
 }
