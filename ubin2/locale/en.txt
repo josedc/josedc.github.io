@@ -1,0 +1,24 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 21
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_A6081612_AC6A_20A7_41D0_477D1C36CB84.label = 11A
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_A1B66429_AC76_60E4_41E2_A233CEFE4301.url = https://im-a-puzzle.com/ficus_stricta_pulau_ubin_7Ykn20zN.puzzle
