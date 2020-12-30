@@ -1,0 +1,99 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Ubin Test 1
+
+## Skin
+
+### Multiline Text
+HTMLText_7CE6B773_73F5_07E4_418D_6756396B551A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:34px;"><B>{{title}}</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>{{subtitle}}</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>Ubin Proto v0.5.vtp</B></SPAN></SPAN></DIV></div>
+HTMLText_93D8E550_9E96_AE52_41BB_09112240034E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>{{title}}</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;"><B>{{subtitle}}</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;"><B>Ubin Proto v0.5.vtp</B></SPAN></SPAN></DIV></div>
+HTMLText_B4148676_ACAE_616C_41DB_0C97DF724F7B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:2px 3px 8px rgba(0,0,0,0.6);text-align:right;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#33ffff;font-size:16px;"><B><I>Total Score: </I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:2px 3px 8px rgba(0,0,0,0.6);text-align:right;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:33px;"><B>{{quiz.global.score}} / {{quiz.global.score.total}}</B></SPAN></SPAN></DIV></div>
+HTMLText_B415C468_ACAA_E164_41C8_54822B4B7540.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:2px 3px 8px rgba(0,0,0,0.6);text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#33ffff;font-size:16px;"><B><I>Emotional Score:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:2px 3px 8px rgba(0,0,0,0.6);text-align:left;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:33px;"><B>{{quiz.score3.score}}</B></SPAN></SPAN></DIV></div>
+HTMLText_B53B9D2F_ACBA_20FD_41E0_610551F707C7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:2px 3px 8px rgba(0,0,0,0.6);text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#33ffff;font-size:16px;"><B><I>Physical Score:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:2px 3px 8px rgba(0,0,0,0.6);text-align:left;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:33px;"><B>{{quiz.score2.score}}</B></SPAN></SPAN></DIV></div>
+HTMLText_B54262BF_ACBA_21DC_41AF_F128CF81F37C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:2px 3px 8px rgba(0,0,0,0.6);text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#33ffff;font-size:16px;"><B><I>Cognitive Score:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:2px 3px 8px rgba(0,0,0,0.6);text-align:left;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:33px;"><B>{{quiz.score1.score}}</B></SPAN></SPAN></DIV></div>
+HTMLText_B71C9561_AC6A_2364_41B5_9343512A50FB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 2px 4px rgba(0,0,0,0.6);text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#33ffff;font-size:8px;"><B><I>Cognitive Score:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 2px 4px rgba(0,0,0,0.6);text-align:left;font-size:16.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16.5px;"><B>{{quiz.score1.score}}</B></SPAN></SPAN></DIV></div>
+HTMLText_B71CD561_AC6A_2364_41D6_36E5B826BD82.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 2px 4px rgba(0,0,0,0.6);text-align:right;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#33ffff;font-size:8px;"><B><I>Total Score:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 2px 4px rgba(0,0,0,0.6);text-align:right;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;"><B>{{quiz.global.score}} / {{quiz.global.score.total}}</B></SPAN></SPAN></DIV></div>
+HTMLText_B71CE561_AC6A_2364_41D0_D406BD45B3E1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 2px 4px rgba(0,0,0,0.6);text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#33ffff;font-size:8px;"><B><I>Physical Score:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 2px 4px rgba(0,0,0,0.6);text-align:left;font-size:16.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16.5px;"><B>{{quiz.score2.score}}</B></SPAN></SPAN></DIV></div>
+HTMLText_B71CF561_AC6A_2364_41E0_866648F4397E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 2px 4px rgba(0,0,0,0.6);text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#33ffff;font-size:8px;"><B><I>Emotional Score:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 2px 4px rgba(0,0,0,0.6);text-align:left;font-size:16.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16.5px;"><B>{{quiz.score3.score}}</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Subtitle
+panorama_7A3EC6A0_7423_6E40_41C7_A9294507A6C9.subtitle = 02A1_101312_X01
+panorama_7A7E991B_73DF_0B5B_41D0_929D1125FE8F.subtitle = 01A1_100613
+panorama_8330068D_890D_3728_41D5_D5E1F1C9D59B.subtitle = 22A2_124722
+panorama_83304314_890D_0D38_41D0_21B9EE220346.subtitle = 23A1_124850
+panorama_83304A69_890F_1FE8_4180_D72814C7A10B.subtitle = 11A4_094901
+panorama_83306393_890F_0D38_41D4_2A3FD3ABB09C.subtitle = 13A1_095613
+panorama_83308CEA_890E_F4E8_41C4_BEC307F57A5C.subtitle = 15A1_100250
+panorama_8330B715_890F_3538_41D1_50684AB2C07A.subtitle = 07A1_093247
+panorama_8330C46C_890F_0BE8_41D0_0111F18685A7.subtitle = 08A1_093446
+panorama_8330DD6E_890F_75E8_41D8_F1C2F18673DB.subtitle = 10A3_094207
+panorama_8330E102_890F_0D18_41CE_034E6EE97361.subtitle = 09A3_093731
+panorama_8333BA2F_890F_1F68_41D2_46355EB33D68.subtitle = 06A2_093014
+panorama_8333D983_890D_1D1F_41C8_6DD21363F019.subtitle = 16A1_100450
+panorama_83AA275B_890F_F528_41D9_91F5C865E4A7.subtitle = 05A3_092728
+
+### Title
+map_84B9474D_95E2_92C1_41B0_47613DE827A2.label = Map to/from Mangrove
+map_8B6D8075_95E1_8EC1_41E0_E5B30E7FFD57.label = Map at/around Mangrove
+panorama_7A3EC6A0_7423_6E40_41C7_A9294507A6C9.label = 02A
+panorama_7A7E991B_73DF_0B5B_41D0_929D1125FE8F.label = 01A1
+panorama_8330068D_890D_3728_41D5_D5E1F1C9D59B.label = 22A
+panorama_83304314_890D_0D38_41D0_21B9EE220346.label = 23A
+panorama_83304A69_890F_1FE8_4180_D72814C7A10B.label = 11A
+panorama_83306393_890F_0D38_41D4_2A3FD3ABB09C.label = 13A
+panorama_83308CEA_890E_F4E8_41C4_BEC307F57A5C.label = 15A
+panorama_8330B715_890F_3538_41D1_50684AB2C07A.label = 07A
+panorama_8330C46C_890F_0BE8_41D0_0111F18685A7.label = 08A
+panorama_8330DD6E_890F_75E8_41D8_F1C2F18673DB.label = 10A
+panorama_8330E102_890F_0D18_41CE_034E6EE97361.label = 09A
+panorama_8333BA2F_890F_1F68_41D2_46355EB33D68.label = 06A
+panorama_8333D983_890D_1D1F_41C8_6DD21363F019.label = 16A
+panorama_83AA275B_890F_F528_41D9_91F5C865E4A7.label = 05A
+photo_BA316E8C_ACF6_21A3_41D1_1358E8E97D12.label = waterbottle01
+photo_BAF51506_AE6C_5D18_41C9_01C4B0665AAD.label = trash01
+
+## Popup
+
+### Body
+htmlText_B4CE0912_AFBE_60A7_41E4_8EA5235EB6E6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">It is important to keep yourselves hydrated while travelling in the outdoors.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_B5784B99_AFBA_67A4_41C0_1FFF4E64D20A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">It is important to keep yourselves hydrated while travelling in the outdoors.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_BBA4CCDD_ACEA_215D_41B4_79786978B167.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">It is important to keep yourselves hydrated while travelling in the outdoors.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_BC36BE01_AE6C_AF18_41D5_801C4B3FA2BA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">Put trash in its place. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">Reduce. Reduce. Recycle.</SPAN></SPAN></DIV></BODY></HTML></div>
+
+## E-Learning
+
+### Score Name
+score1.label = Cognitive
+score2.label = Physical
+score3.label = Emotional
+
+### Question Screen
+quizQuestion_B4D564CE_ACAE_21BF_41A1_A2C346916A55.ok = OK
+
+### Report Screen
+quizScore_B4D744CE_ACAE_21BF_41E1_3AB8675E3047.completion = Completed
+quizScore_B4D744CE_ACAE_21BF_41E1_3AB8675E3047.downloadCSV = Download .csv
+quizScore_B4D744CE_ACAE_21BF_41E1_3AB8675E3047.elapsedTime = Time
+quizScore_B4D744CE_ACAE_21BF_41E1_3AB8675E3047.items = Items Found
+quizScore_B4D744CE_ACAE_21BF_41E1_3AB8675E3047.questions = Questions
+quizScore_B4D744CE_ACAE_21BF_41E1_3AB8675E3047.questionsCorrect = Correct
+quizScore_B4D744CE_ACAE_21BF_41E1_3AB8675E3047.questionsIncorrect = Incorrect
+quizScore_B4D744CE_ACAE_21BF_41E1_3AB8675E3047.repeat = Repeat
+quizScore_B4D744CE_ACAE_21BF_41E1_3AB8675E3047.submitToLMS = Submit
+quizScore_B4D744CE_ACAE_21BF_41E1_3AB8675E3047.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_B4D564CE_ACAE_21BF_41D2_A86FE070D05C.repeat = Repeat
+quizTimeout_B4D564CE_ACAE_21BF_41D2_A86FE070D05C.score = View Score
+quizTimeout_B4D564CE_ACAE_21BF_41D2_A86FE070D05C.title = - TIMEOUT -
