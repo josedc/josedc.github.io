@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = Udin Testi 2
+tour.name = Ubin Test 2
 
 ## Skin
 
