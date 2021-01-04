@@ -89,7 +89,7 @@ questionOption_DFD1C657_CC25_35B0_41D3_7AB57ADD83FC.text = Pale yellow
 ### Score Name
 score1.label = Cognitive
 score2.label = Physical
-score3.label = Emotional
+score3.label = Social
 
 ### Question
 question_D87F7E39_CC25_15F3_41D5_BD732168616C.title = The Oriental Pied Hornbill, measuring over one metre from bill to tail, is one of Singapore’s larger and more conspicuous birds.  \
