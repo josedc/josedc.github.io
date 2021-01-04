@@ -44,6 +44,8 @@ panorama_8333D983_890D_1D1F_41C8_6DD21363F019.subtitle = 16A1_100450
 panorama_83AA275B_890F_F528_41D9_91F5C865E4A7.subtitle = 05A3_092728
 
 ### Title
+album_DFA54189_CCED_0E90_41D8_34A8C3EAB8E8.label = Photo Album hornbill01
+album_DFA54189_CCED_0E90_41D8_34A8C3EAB8E8_0.label = hornbill01
 map_84B9474D_95E2_92C1_41B0_47613DE827A2.label = Map to/from Mangrove
 map_8B6D8075_95E1_8EC1_41E0_E5B30E7FFD57.label = Map at/around Mangrove
 panorama_7A3EC6A0_7423_6E40_41C7_A9294507A6C9.label = 02A
@@ -62,6 +64,7 @@ panorama_8333D983_890D_1D1F_41C8_6DD21363F019.label = 16A
 panorama_83AA275B_890F_F528_41D9_91F5C865E4A7.label = 05A
 photo_BA316E8C_ACF6_21A3_41D1_1358E8E97D12.label = waterbottle01
 photo_BAF51506_AE6C_5D18_41C9_01C4B0665AAD.label = trash01
+photo_D821D084_CCE5_0E90_41AB_64E7A1A5B0E4.label = hornbill01
 
 ## Popup
 
@@ -70,13 +73,27 @@ htmlText_B4CE0912_AFBE_60A7_41E4_8EA5235EB6E6.html = <div style="text-align:left
 htmlText_B5784B99_AFBA_67A4_41C0_1FFF4E64D20A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">It is important to keep yourselves hydrated while travelling in the outdoors.</SPAN></SPAN></DIV></BODY></HTML></div>
 htmlText_BBA4CCDD_ACEA_215D_41B4_79786978B167.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">It is important to keep yourselves hydrated while travelling in the outdoors.</SPAN></SPAN></DIV></BODY></HTML></div>
 htmlText_BC36BE01_AE6C_AF18_41D5_801C4B3FA2BA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">Put trash in its place. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">Reduce. Reduce. Recycle.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_D8247B32_CCE4_F3F0_41DC_D8987F151EE1.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B><U>Return of the hornbills</U></B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Do you know that the Oriental Pied Hornbill(Anthracoceros albirostris convexus), once thought to be extinct in Singapore, has made a comeback? </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This magnificent, large bird, distinguished by its large down-curved bill that is big and often brightly coloured, is one of possibly three hornbill species native to Singapore. </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Helped by artificial nestboxes, which are put up as part of the Singapore Hornbill Project, it is re-establishing colonies in Singapore, with 40-50 of them found on Pulau Ubin.</SPAN></DIV></BODY></HTML></div>
+htmlText_D8F1F1CA_CC23_0E91_41E7_021DB744A7F5.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Shall we play a game? </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_D962BF7B_CC2D_3270_41CB_31DC0685F660.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">Shall we play the "I spy" game as we walk into the Pulau Ubin village? Let's see how many things you can spot!</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">I SPY WITH MY EYES…….</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">ITEM 1: PU18 (07A)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">ITEM 2: Number 31 (06A)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">ITEM 3: A Blue Van (05A)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">ITEM 4: 45C (05A)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">ITEM 5: Theatre windows (05A)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">ITEM 6: Oranges (23A)</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_DFF3CB1A_CC23_13B0_41E1_9366633ED1D9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Put trash in its place please.</SPAN></DIV></BODY></HTML></div>
 
 ## E-Learning
+
+### Answer
+questionOption_DF4DFB73_CC24_F277_41E7_1518279F3C7C.text = FALSE
+questionOption_DF8D5EFB_CCDD_7277_41DF_E18FDB1363B5.text = FALSE
+questionOption_DFAE6409_CCDD_7590_41D3_DA5E8AE718A1.text = TRUE
+questionOption_DFD1C657_CC25_35B0_41D3_7AB57ADD83FC.text = TRUE
 
 ### Score Name
 score1.label = Cognitive
 score2.label = Physical
 score3.label = Emotional
+
+### Question
+question_D87F7E39_CC25_15F3_41D5_BD732168616C.title = Hornbills are beautiful
+question_DF4D0FEF_CCDC_F290_41E6_D7341A3C8244.title = Hornbills are small
 
 ### Question Screen
 quizQuestion_B4D564CE_ACAE_21BF_41A1_A2C346916A55.ok = OK
