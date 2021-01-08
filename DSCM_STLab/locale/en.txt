@@ -1,0 +1,18 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
+
+## Media
+
+### Title
+panorama_2C10DDD1_237D_073D_4198_CA2274DC147D.label = IMG_20201202_141702_00_merged
+panorama_2C111988_237D_0F2B_41A1_DA04C2F985AA.label = IMG_20201202_141850_00_merged
+panorama_2C114595_237D_0725_41A8_D439E4BDCCB0.label = IMG_20201202_142144_00_merged
+panorama_2D23D0EF_237A_FEE5_41A5_08FAE65EA68C.label = IMG_20201202_135715_00_merged
+video_88573A21_9D2F_06E9_4180_C61C171665E7.label = Semi-Automatic Picking System 2
+video_B6A1B2F7_A798_7832_41D0_DE6CE503627D.label = Semi-Automatic Picking System 1
