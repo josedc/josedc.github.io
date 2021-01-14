@@ -1,0 +1,137 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = MI Hub VR Tour
+
+## Skin
+
+### Label
+label4056.text = Materials Innovation Hub
+
+## Media
+
+### Title
+album_4EF59741_5F99_161F_41C4_48A855FE0D3C.label = MI Hub
+album_4EF59741_5F99_161F_41C4_48A855FE0D3C_0.label = Entrance
+panorama_50374101_5AD8_03D0_41B0_0FB06B91AA90.label = 3D Print Farm
+panorama_503744A7_5AD8_02D0_41D2_E4E02F4F542F.label = Dark Room
+panorama_50376AE4_5AD8_0657_41D3_169662D1C182.label = Robotic Arm
+panorama_51C88CBF_5AD8_0231_41C3_E7DF7BF7492F.label = Hot Works 1
+panorama_51C8C2DC_5AD8_0670_41B6_30E7BCFB4290.label = Entrance
+panorama_51C8E6D0_5AD8_0E70_41A0_F7DBDA518FDA.label = Hot works 2
+panorama_51CBB947_5AD8_0250_41BA_3108C0EEA792.label = Corridor
+panorama_E4B494DB_EFB3_A23B_416D_2781C1CE6760.label = Teaching Space
+photo_4F0B7CC6_5F99_1A25_41C5_1FEAFA070953.label = 3d print farm
+
+## Popup
+
+### Body
+htmlText_41EC7BD2_5DB8_C899_41D6_DBA9749D74DF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Build volume of 220x210x664mm mm and a dual head extruder. It can produce very beautiful high resolution prints with all sorts of gradients and color shifting throughout the print.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_420BB0C6_5D49_D886_41B7_A204D29D01BE.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This measuring mixer and extruder system supports you in process modelling activities such as: Compounding polymers with additives to reduce flammability, viscosity, etc., scale-up extrusion processes by using different L/D ratios to extrapolate to your master process line, simulating master processes using only as little as 50g of material to optimize extrusion or mixing in respect to temperature and shear profile or extrusion of strands, profiles or films in combination with rheological or optical measurements. Consequently, you can optimize your process parameters, create test specimens or perform quality control on incoming and outgoing goods with regard to viscosity, dispersion or plasticizing behavior. </SPAN></DIV></BODY></HTML></div>
+htmlText_422590E0_5DC8_D8BA_41D5_8565B828BCA7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Laser Stereolithography works by using a high-powered laser to harden liquid resin that is contained in a reservoir to create the desired 3D shape. In a nutshell, this process converts photosensitive liquid into 3D solid plastics in a layer-by-layer fashion using a low-power laser and photopolymerization.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_4241F066_5D57_D7B9_41D0_F34164844442.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Typically used for batch testing of many highly viscous substances.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A typical mixer test is run at a defined speed (shear rate) versus time, and the material's response is recorded as torque. The mixing chamber is temperature-controlled precisely by independent heating and cooling zones, but due to the frictional heat in the mixing bowl, a change in the material's melt temperature is observed and recorded as measuring signal. This “Rheogram” (torque, melt temperature vs. time at constant speed) is characteristic for different materials or blends and often used as a “fingerprint” in Quality Control for incoming or outgoing product inspection. Different additives in type and concentration can be measured and quantified objectively through the melting behavior, consumed energy or melt viscosity (recorded torque).</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_42E470EB_5DB8_388E_41D1_10DC2619DA3D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Build volume of up to 223 x 223 x 305 mm and a single head extruder.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Fused deposition modeling is a method of additive manufacturing where layers of materials are fused together in a pattern to create an object. The material is usually melted just past its glass transition temperature, and then extruded in a pattern next to or on top of previous extrusions, creating an object layer by layer.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_43060C5C_5DB8_4F89_41D6_9005198E7304.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Medium-sized member of the Universal Robots family is ideal for automating low-weight processing tasks with its 5kgs payload and 850mm reach radius.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_4316676F_5DB8_5986_4198_4181BF8A4D99.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Top-of-the-line industrial 3D printer featuring a dual nozzle print system that supports continuous carbon fiber and Kevlar reinforcement.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_435A995C_5DCB_C989_41CE_7B123F8D0358.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Non-destructive testing (NDT) process for detecting surface and shallow subsurface discontinuities in ferromagnetic materials such as iron, nickel, cobalt, and some of their alloys.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_439BC1EA_5D58_388E_41D0_CE13ACD4828A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Compression molding is the process of molding in which a preheated polymer is placed into an open, heated mold cavity. The mold is then closed with a top plug and compressed in order to have the material contact all areas of the mold.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This process is able to produce parts with a wide array of lengths, thicknesses, and complexities. The objects it produces are also high in strength, making it an attractive process for a number of different industries.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Thermoset composites are the most common type of material used in compression molding.</SPAN></DIV></BODY></HTML></div>
+htmlText_466B5424_5AC8_3FBA_41AD_410247321934.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Injection molding is a manufacturing process for producing parts by injecting molten material into a mold. Material for the part is fed into a heated barrel, mixed and injected into a mould cavity, where it cools and hardens to the configuration of the cavity.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_51FB32BF_5F99_2E63_41D4_72B74396B615.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Webcam and 3D printer connect to a Raspberry Pi so that they can be visible in WAN.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A web based cloud platform will be developed for the users to control the printers remotely.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_7C0432A1_5D48_58BA_419E_AACB1706D8D8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Extrusion is a process used for creating a product (an extrudate) by forcing a material through a die or an orifice to form a shape, or alternatively an extruder is used to produce semi-finished or finished products.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_7C59B0CA_5D48_388E_41CA_DA24D0FEF7FB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Twin screw extruder is used extensively for compounding polymers with additives, reinforcing fibres and fillers. The large shear forces generated allows for efficient mixing.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_7C98FC5A_5DB9_CF8E_41CE_406519ECEC36.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> Build volume of 100 x 100 x 100mm and a single head extruder.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_7E756185_5DB8_597A_4185_465009596307.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Build volume of up to 230 x 150 x 140mm and a dual head extruder.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+
+### Title
+window_850560D3_909E_8120_41DC_D6B2082F5DA1.title = SINGLE SCREW EXTRUDER
+window_85172872_9082_81E1_41D3_BFEEF9A49D61.title = FDM PRINTER
+window_851EF6CC_9082_8121_41D8_6CA25CFB0806.title = INJECTION MOLDING
+window_854D2398_9085_8721_41DE_7E37912E05E3.title = TWIN SCREW EXTRUDER
+window_85563E1D_9082_8123_41D4_738B52E669ED.title = FDM PRINTER
+window_855A8F7E_909E_9FE1_41BD_4D7E91FF5352.title = MAGNETIC PARTICLE INSPECTION SYSTEM
+window_8571BB60_909F_87E1_41D9_CECED7219FB6.title = MEASURING MIXER
+window_85920140_9083_8321_41DF_C54396E96B92.title = COMPRESSION MOLDING
+window_859A2E68_9082_81E1_41D4_757753872ED2.title = COMPOSITE 3D PRINTER
+window_865F27CC_909E_8F21_41DF_78D4957256EC.title = SLA SYSTEM
+window_86670EE1_9087_9EE3_41D7_02B9997F3985.title = HOT MELT MIXER
+window_866DCFB1_909D_BF63_41D3_5C70E073ACDB.title = 3D Print Farm
+window_868862C8_909D_8121_41D2_00F6E22095DF.title = FDM PRINTER
+window_86B37204_909E_8121_41E1_2DB651BEA033.title = ROBOTIC ARM SYSTEM
+window_87E92A3D_9082_8163_41B2_45D6308E8A59.title = FDM PRINTER
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_422309F0_5B48_0230_41C1_61C2E4B5EA99.toolTip = Compression Molding
+HotspotPanoramaOverlayArea_4229D80D_5BB8_01D1_41CB_47C1F403A491.toolTip = Dark Room
+HotspotPanoramaOverlayArea_427D2929_5BB8_03D0_41D1_A67091598EDE.toolTip = Polymer Processing Area
+HotspotPanoramaOverlayArea_438F5D32_5BB8_0230_41A1_6B45FE906D80.toolTip = Entrance
+HotspotPanoramaOverlayArea_494C9E51_5AC8_1E71_4198_B1C00E400029.toolTip = Robotic Arm
+HotspotPanoramaOverlayArea_49BDD0AD_5AC8_02D1_41CF_56C71D99DCB9.toolTip = 3D Print Farm
+HotspotPanoramaOverlayArea_4C465249_5B48_0650_41D4_25F5637A8A1F.toolTip = Entrance
+HotspotPanoramaOverlayArea_4D52F4EB_5B58_0251_41AD_64CE8D599A5A.toolTip = Injection Molding
+HotspotPanoramaOverlayArea_4D9F388E_5B58_02D0_41CA_FA4C5EF91A0A.toolTip = Teaching Space
+HotspotPanoramaOverlayArea_4EAD893D_5AC8_0230_41C1_15DC0DE745C2.toolTip = Corridor
+HotspotPanoramaOverlayArea_4F999F9C_5B48_1EF0_41D4_A83D2A143959.toolTip = 3D Print Farm
+HotspotPanoramaOverlayArea_4FBAB655_5B48_0E70_41C3_6A9225520C75.toolTip = Entrance
+HotspotPanoramaOverlayArea_828FC2CB_90BE_8127_41D6_6FEE0165420A.toolTip = Exit
+HotspotPanoramaOverlayArea_82F59615_9083_8123_41D9_941E251ED8A3.toolTip = Exit
+HotspotPanoramaOverlayArea_84F1732F_9082_877F_41DF_0BBC0085ADF5.toolTip = Exit
+
+## E-Learning
+
+### Answer
+questionOption_42808B00_5DD8_497A_41AA_AD3CA770D6D0.text = cooled; reduced
+questionOption_4280CB01_5DD8_497A_41D6_E208B248F2AF.text = preheated; increased
+questionOption_4280DB01_5DD8_497A_41CE_6C155285ED71.text = preheated; reduced
+questionOption_4280FB00_5DD8_497A_4197_32413A183FC8.text = cooled; increased
+questionOption_429DE763_5DF8_F9BE_41D6_A9729A2113AA.text = To feed the additives for compounding
+questionOption_42BD0271_5DF8_DB9A_41CC_2DB4F15A52E1.text = To cut the extrudate into pellet form
+questionOption_4301A8CA_5DC8_4889_41C1_253B7EC37CFC.text = Use of amorphous or semicrystalline material
+questionOption_4301B8CA_5DC8_4889_41B1_3D9AB20A7243.text = Mold temperature
+questionOption_4301D8CA_5DC8_4889_41D2_75DA3E28B92B.text = Injection rate
+questionOption_4301E8CA_5DC8_4889_41A4_1F4AF30F84B3.text = None of the above
+questionOption_434C5A79_5DF8_4B8A_4196_2DADB351C7F8.text = To feed the polymer pellets
+questionOption_43599D32_5DF8_C999_41C0_74539407E2AA.text = To cool and solidify the extruded polymer
+questionOption_521A1B12_5F89_3E3D_41C1_7C4AA9AE6E8D.text = interacting with visible light
+questionOption_521A4B12_5F89_3E3D_41D1_69FADAE6AFA6.text = interacting with UV light
+questionOption_521A6B12_5F89_3E3D_41D4_24384BBCAB3B.text = reacting with a curing agent
+questionOption_521BAB12_5F89_3E3D_41CF_33F99FAB114F.text = cooling down to room temperature
+questionOption_5258945C_5F8B_2A25_41CF_DF164605AC0C.text = Prints according to 3D CAD data
+questionOption_5258D45C_5F8B_2A25_41C8_E204A20D3EEF.text = Prints layer by layer
+questionOption_5259445C_5F8B_2A25_41C7_AB7EC3808D66.text = None of the above
+questionOption_5259645C_5F8B_2A25_41A5_2D71FD0B77F4.text = Raw material is fed in liquid form
+
+### Score Name
+score1.label = Quiz Score
+
+### Question
+question_42804B00_5DD8_497A_41C2_2721F1C1545E.title = The platen will be lowered till it is in contact with the mold, which will be __________ so that the viscosity of the charge is ___________. 
+question_430048C9_5DC8_488B_41D1_059268FAC485.title = Which of the following process parameters will not affect the quality of injection molding product?
+question_433E9E91_5DC8_489A_41BB_1DF71482EF66.title = Which of the following correctly describes the function of a primary feeder?
+question_521BEB12_5F89_3E3D_41D5_613B4497A542.title = In stereolithography, the polymer resin is polymerized by __________.
+question_5258245C_5F8B_2A25_4192_CFAF4250D9D5.title = Which of the following is NOT a feature of FDM?
+
+### Question Screen
+quizQuestion_7D67EBB1_5DC8_C89A_41B2_2007684BE83C.ok = OK
+
+### Report Screen
+quizScore_7D67CBB1_5DC8_C89A_41AD_2F093EC758D2.completion = Completed
+quizScore_7D67CBB1_5DC8_C89A_41AD_2F093EC758D2.downloadCSV = Download .csv
+quizScore_7D67CBB1_5DC8_C89A_41AD_2F093EC758D2.elapsedTime = Time
+quizScore_7D67CBB1_5DC8_C89A_41AD_2F093EC758D2.items = Items Found
+quizScore_7D67CBB1_5DC8_C89A_41AD_2F093EC758D2.questions = Questions
+quizScore_7D67CBB1_5DC8_C89A_41AD_2F093EC758D2.questionsCorrect = Correct
+quizScore_7D67CBB1_5DC8_C89A_41AD_2F093EC758D2.questionsIncorrect = Incorrect
+quizScore_7D67CBB1_5DC8_C89A_41AD_2F093EC758D2.repeat = Repeat
+quizScore_7D67CBB1_5DC8_C89A_41AD_2F093EC758D2.submitToLMS = Submit
+quizScore_7D67CBB1_5DC8_C89A_41AD_2F093EC758D2.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_7D67FBB1_5DC8_C89A_41C0_ABD56BBC5CBF.repeat = Repeat
+quizTimeout_7D67FBB1_5DC8_C89A_41C0_ABD56BBC5CBF.score = View Score
+quizTimeout_7D67FBB1_5DC8_C89A_41C0_ABD56BBC5CBF.title = - TIMEOUT -
