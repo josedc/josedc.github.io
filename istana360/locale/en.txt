@@ -1,0 +1,41 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Istana 360 Tour
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Subtitle
+panorama_3CE88EF7_3512_F87D_419F_C6B2C0033B59.subtitle = Gun Terrace
+panorama_3CE8C5BD_3512_E8ED_41B0_9FD479FF53AD.subtitle = Ginger Garden
+panorama_3CE8F00C_3511_2793_41C1_86DFA654F259.subtitle = Istana Gate
+panorama_3CE8F7A0_3512_E893_4191_15CB12698E40.subtitle = Function Lawn
+panorama_3CE97CB8_3513_18F4_41A3_07B4622CDFA2.subtitle = Path
+panorama_3CE9A965_3513_199D_41C5_3BF628ABA7B8.subtitle = Orchid Garden
+panorama_3FEF3C76_3513_387C_41C2_F321EE70EDCD.subtitle = Swan Pond
+
+### Title
+panorama_3CE88EF7_3512_F87D_419F_C6B2C0033B59.label = Gun Terrace
+panorama_3CE8C5BD_3512_E8ED_41B0_9FD479FF53AD.label = Ginger Garden
+panorama_3CE8F00C_3511_2793_41C1_86DFA654F259.label = Istana Gate
+panorama_3CE8F7A0_3512_E893_4191_15CB12698E40.label = Function Lawn
+panorama_3CE97CB8_3513_18F4_41A3_07B4622CDFA2.label = Cross Path
+panorama_3CE9A965_3513_199D_41C5_3BF628ABA7B8.label = Orchid Garden
+panorama_3FEF3C76_3513_387C_41C2_F321EE70EDCD.label = Swan Pond
+video_275C6F57_3513_19BC_41B9_63E385BA9344.label = front gate
+video_3A199F18_3532_F9B4_41BE_FF7A624DC6A2.label = front gate
+video_3B78959C_3531_28AC_41C9_FCDCA5299D15.label = Orchid Garden
+video_3B789889_3531_1895_41C9_3DF3442A7793.label = Swan Pond
+video_3B7942C1_3531_2895_41AD_5DC4B4992C9E.label = Gun Terrace
+video_3B795FB1_3531_38F5_41C5_41998C6D1624.label = Ginger Garden
+video_3BDF6C99_3531_38B5_41C1_C9058BC9D195.label = Function Lawn
