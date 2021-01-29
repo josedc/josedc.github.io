@@ -3,6 +3,7 @@
 ## Tour
 
 ### Description
+tour.description = DGF AD 360 Virtual Prototype
 
 ### Title
 tour.name = Ubin Proto
