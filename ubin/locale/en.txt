@@ -22,9 +22,6 @@ HTMLText_B71CD561_AC6A_2364_41D6_36E5B826BD82.html = <div style="text-align:left
 HTMLText_B71CE561_AC6A_2364_41D0_D406BD45B3E1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 2px 4px rgba(0,0,0,0.6);text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#33ffff;font-size:8px;"><B><I>Physical Score:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 2px 4px rgba(0,0,0,0.6);text-align:left;font-size:16.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16.5px;"><B>     {{quiz.score2.score}}</B></SPAN></SPAN></DIV></div>
 HTMLText_B71CF561_AC6A_2364_41E0_866648F4397E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 2px 4px rgba(0,0,0,0.6);text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#33ffff;font-size:8px;"><B><I>Social Score:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 2px 4px rgba(0,0,0,0.6);text-align:left;font-size:16.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16.5px;"><B>      {{quiz.score3.score}}</B></SPAN></SPAN></DIV></div>
 
-### Label
-Label_5AC533E7_4C58_E4B7_41C7_25617AC1F730.text = 🥰
-
 ### Tooltip
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
