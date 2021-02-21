@@ -1,0 +1,82 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Kampong Glam virtual tour
+
+### Title
+tour.name = KGlam.life
+
+## Skin
+
+### Multiline Text
+HTMLText_CC03638B_C1F1_757D_41E1_D45F0067D2ED.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">KGlam.life recce shot review v0.1</SPAN></DIV><DIV STYLE="text-align:right;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>Shot ID {{title}}</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">Subtitle {{subtitle}}</SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+
+## Media
+
+### Subtitle
+panorama_B0052A03_BD0C_2420_41E7_05057399CAD6.subtitle = R0020089 on 19 Feb
+panorama_B10161FD_BD14_27E1_41E5_A44249856F4E.subtitle = R0020106 on 19 Feb
+panorama_B102042B_BD0C_2C60_41C4_402589D0A167.subtitle = R0020090 on 19 Feb
+panorama_B1020D9B_BD0C_7C20_41E1_9A8664CAC1EF.subtitle = R0020092 on 19 Feb
+panorama_B1022DF5_BD0C_1FE1_41D9_21E8290740B6.subtitle = R0020078 on 19 Feb
+panorama_B1027518_BD0C_2C2F_41C6_FFFE11749B7C.subtitle = R0020077 on 19 Feb
+panorama_B10284C6_BD0C_EC23_41D7_C6C90162D4F5.subtitle = R0020086 on 19 Feb
+panorama_B102BC5C_BD0C_1C27_41DC_127964ED0B90.subtitle = R0020087 on 19 Feb
+panorama_B102D4C0_BD0C_2C1F_41E6_914665459C48.subtitle = R0020088 on 19 Feb
+panorama_B1034B90_BD0D_E43F_41DA_BF21EF337628.subtitle = R0020091 on 19 Feb
+panorama_B1035338_BD0C_2460_41D0_C3306C8A865A.subtitle = R0020076 on 19 Feb
+panorama_B1038C18_BD0C_3C2F_41CC_11A7B082870F.subtitle = R0020082 on 19 Feb
+panorama_B103E464_BD0C_6CE7_41D2_CC16148DF055.subtitle = R0020085 on 19 Feb
+panorama_B103FBAA_BD0C_2463_41D8_87C24EB0CF48.subtitle = R0020084 on 19 Feb
+panorama_B11DF597_BD13_EC21_41C0_2B6BF759FB32.subtitle = R0020079 on 19 Feb
+panorama_B11E0D1C_BD14_FC27_419E_1FF4950806B0.subtitle = R0020100 on 19 Feb
+panorama_B11E0E29_BD14_1C61_41DF_19E2707A92AB.subtitle = R0020080 on 19 Feb
+panorama_B11E33E6_BD14_2BE3_41E6_9368A5A05814.subtitle = R0020097 on 19 Feb
+panorama_B11E5A42_BD14_2423_41B5_13E900461277.subtitle = R0020101 on 19 Feb
+panorama_B11E661C_BD14_6C20_41DE_C4A9A4F40193.subtitle = R0020081 on 19 Feb
+panorama_B11E6D3E_BD14_3C63_41DB_683EE54E9511.subtitle = R0020083 on 19 Feb
+panorama_B11E9540_BD15_EC1F_41D8_1428B8784417.subtitle = R0020103 on 19 Feb
+panorama_B11EB391_BD14_6421_41D2_D58F7945DE8C.subtitle = R0020104 on 19 Feb
+panorama_B11EBAAC_BD14_6467_41D1_54551931D18B.subtitle = R0020105 on 19 Feb
+panorama_B11EE606_BD14_2C23_41D5_1B7357324960.subtitle = R0020099 on 19 Feb
+panorama_B11EEC18_BD14_3C2F_41D0_5D538F60A7D2.subtitle = R0020102 on 19 Feb
+panorama_B11FBDFC_BD14_1FE7_41C8_B4041D1C0566.subtitle = R0020096 on 19 Feb
+panorama_B11FC13B_BD14_6461_41D0_22BB1D45D0C0.subtitle = R0020098 on 19 Feb
+panorama_B11FD7A2_BD14_2C63_41DB_07450C80528D.subtitle = R0020095 on 19 Feb
+
+### Title
+map_B20A156A_BD1D_E078_4161_59608184732A.label = KGlam Floorplan
+panorama_B0052A03_BD0C_2420_41E7_05057399CAD6.label = 001
+panorama_B10161FD_BD14_27E1_41E5_A44249856F4E.label = 226
+panorama_B102042B_BD0C_2C60_41C4_402589D0A167.label = 003
+panorama_B1020D9B_BD0C_7C20_41E1_9A8664CAC1EF.label = 083
+panorama_B1022DF5_BD0C_1FE1_41D9_21E8290740B6.label = 157
+panorama_B1027518_BD0C_2C2F_41C6_FFFE11749B7C.label = 156
+panorama_B10284C6_BD0C_EC23_41D7_C6C90162D4F5.label = 069
+panorama_B102BC5C_BD0C_1C27_41DC_127964ED0B90.label = 073
+panorama_B102D4C0_BD0C_2C1F_41E6_914665459C48.label = 074
+panorama_B1034B90_BD0D_E43F_41DA_BF21EF337628.label = 005
+panorama_B1035338_BD0C_2460_41D0_C3306C8A865A.label = 037
+panorama_B1038C18_BD0C_3C2F_41CC_11A7B082870F.label = 065
+panorama_B103E464_BD0C_6CE7_41D2_CC16148DF055.label = 063
+panorama_B103FBAA_BD0C_2463_41D8_87C24EB0CF48.label = 062
+panorama_B11DF597_BD13_EC21_41C0_2B6BF759FB32.label = 158
+panorama_B11E0D1C_BD14_FC27_419E_1FF4950806B0.label = 216
+panorama_B11E0E29_BD14_1C61_41DF_19E2707A92AB.label = 162
+panorama_B11E33E6_BD14_2BE3_41E6_9368A5A05814.label = 217
+panorama_B11E5A42_BD14_2423_41B5_13E900461277.label = 218
+panorama_B11E661C_BD14_6C20_41DE_C4A9A4F40193.label = 161
+panorama_B11E6D3E_BD14_3C63_41DB_683EE54E9511.label = 160
+panorama_B11E9540_BD15_EC1F_41D8_1428B8784417.label = 222
+panorama_B11EB391_BD14_6421_41D2_D58F7945DE8C.label = 224
+panorama_B11EBAAC_BD14_6467_41D1_54551931D18B.label = 225
+panorama_B11EE606_BD14_2C23_41D5_1B7357324960.label = 215
+panorama_B11EEC18_BD14_3C2F_41D0_5D538F60A7D2.label = 223
+panorama_B11FBDFC_BD14_1FE7_41C8_B4041D1C0566.label = 221
+panorama_B11FC13B_BD14_6461_41D0_22BB1D45D0C0.label = 219
+panorama_B11FD7A2_BD14_2C63_41DB_07450C80528D.label = 220
