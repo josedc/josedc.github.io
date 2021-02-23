@@ -9,13 +9,17 @@ tour.name = Immersive Studio
 
 ## Skin
 
+### Multiline Text
+HTMLText_D90C0578_CF0E_216A_41C1_1E97AB4E5ADB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.4400000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Right</SPAN></DIV></div>
+HTMLText_D90F2572_CF0E_217E_41E0_984D9E878038.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4400000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Left</SPAN></DIV></div>
+
 ### Tooltip
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
-IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
 
 ## Media
 
 ### Title
+panorama_C03AE855_CF1A_2EBA_41D6_AB2B3DD4AF13.label = IMG_20210204_120417x2
 panorama_C5A2D8F0_CCDF_0006_41E5_F5E94ED4F205.label = IMG_20210204_120811
 panorama_C5A300C7_CCDD_000A_41DF_725E9C0E3E6C.label = IMG_20210204_121421
 panorama_C5A30B3E_CCDD_007A_41BD_9D9865091515.label = IMG_20210204_121151
@@ -25,3 +29,4 @@ panorama_C5A345CC_CCDD_001E_41BD_8A6DB3BF0A01.label = IMG_20210204_121248
 panorama_C5A36B67_CCDD_000A_41DD_69553225D9F7.label = IMG_20210204_121821
 panorama_C5A55E23_CCDF_000A_41C7_7C7C8F44B61F.label = IMG_20210204_120606
 panorama_C6E437D0_CCDF_0006_41D6_F5A6A68F0027.label = IMG_20210204_120417
+panorama_DFEA78A9_CF1B_EFEA_41E6_71AF4AE80400.label = IMG_20210204_120417x1
