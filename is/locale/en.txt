@@ -10,8 +10,14 @@ tour.name = Immersive Studio
 ## Skin
 
 ### Multiline Text
-HTMLText_D90C0578_CF0E_216A_41C1_1E97AB4E5ADB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Right</SPAN></DIV></div>
-HTMLText_D90F2572_CF0E_217E_41E0_984D9E878038.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Left</SPAN></DIV></div>
+HTMLText_D90C0578_CF0E_216A_41C1_1E97AB4E5ADB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">Full 3 Sides</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">No Floor</SPAN></SPAN></DIV></div>
+HTMLText_D90F2572_CF0E_217E_41E0_984D9E878038.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">Partial 2 Sides</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">No Floor</SPAN></SPAN></DIV></div>
+HTMLText_DC268C3D_D2A3_0EE3_41D9_F644A4F9E5DB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">Partial 2 Sides</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">No Floor</SPAN></SPAN></DIV></div>
+HTMLText_DC2F1C45_D2A3_0EA3_41E5_1D53E66FE768.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">Full 3 Sides</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">No Floor</SPAN></SPAN></DIV></div>
+HTMLText_DD209AEE_D2AF_0B60_41CB_335FB08A09BC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">Partial 2 Sides</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">+ Floor</SPAN></SPAN></DIV></div>
+HTMLText_DD23EAF4_D2AF_0B60_41DB_A449661EF79E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">Full 3 Sides</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">+ Floor</SPAN></SPAN></DIV></div>
+HTMLText_DE84A34E_D2A5_1AA0_41C9_D4B934B4B3A0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">Full 3 Sides</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">+ Floor</SPAN></SPAN></DIV></div>
+HTMLText_DEBE6347_D2A5_1AA0_41AD_D7248828A071.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">Partial 2 Sides</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0028612303290414vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;">+ Floor</SPAN></SPAN></DIV></div>
 
 ### Tooltip
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
@@ -20,6 +26,7 @@ IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
 
 ### Title
 panorama_C03AE855_CF1A_2EBA_41D6_AB2B3DD4AF13.label = IMG_20210204_120417x2
+panorama_C3A65290_D1B2_15FF_41E7_CB91DA6E214A.label = IMG_20210204_120417y3
 panorama_C5A2D8F0_CCDF_0006_41E5_F5E94ED4F205.label = IMG_20210204_120811
 panorama_C5A300C7_CCDD_000A_41DF_725E9C0E3E6C.label = IMG_20210204_121421
 panorama_C5A30B3E_CCDD_007A_41BD_9D9865091515.label = IMG_20210204_121151
@@ -29,4 +36,10 @@ panorama_C5A345CC_CCDD_001E_41BD_8A6DB3BF0A01.label = IMG_20210204_121248
 panorama_C5A36B67_CCDD_000A_41DD_69553225D9F7.label = IMG_20210204_121821
 panorama_C5A55E23_CCDF_000A_41C7_7C7C8F44B61F.label = IMG_20210204_120606
 panorama_C6E437D0_CCDF_0006_41D6_F5A6A68F0027.label = IMG_20210204_120417
+panorama_DD72DC87_D1D2_6DEC_41DE_502DAC2CA98B.label = IMG_20210204_120417x3
+panorama_DFBA4601_D1AE_1CE0_41C3_2A94297D5367.label = IMG_20210204_120417y1
+panorama_DFBA61A3_D1AE_3721_41B0_2C809F0C7705.label = IMG_20210204_120417y2
+panorama_DFBAE9C6_D1AE_1763_41E3_F33D13E25A27.label = IMG_20210204_120417y4
+panorama_DFBAE9F0_D1AE_773F_41DE_4FB2CD34454E.label = IMG_20210204_120417x4
 panorama_DFEA78A9_CF1B_EFEA_41E6_71AF4AE80400.label = IMG_20210204_120417x1
+video_DC013FCB_D352_EB61_41C4_76B32D0807DE.label = woman-green-screen
