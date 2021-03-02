@@ -141,6 +141,12 @@ album_BEA30ACC_A5E3_6DC7_41CD_9E000A54B55D.label = Photo Album paddle
 album_BEA30ACC_A5E3_6DC7_41CD_9E000A54B55D_0.label = paddle
 album_BFD5750D_A5E7_A440_41CF_F04360C5B210.label = Photo Album kayak
 album_BFD5750D_A5E7_A440_41CF_F04360C5B210_0.label = kayak
+album_C4CC19A4_F24F_D45F_41E2_129D269EB4C9.label = Photo Album PanelSilver
+album_C4CC19A4_F24F_D45F_41E2_129D269EB4C9_0.label = PanelSilver
+album_C4E01FED_F24F_6BA9_41AC_5161EEF510ED.label = Photo Album PanelBronze
+album_C4E01FED_F24F_6BA9_41AC_5161EEF510ED_0.label = PanelBronze
+album_C4E93F84_F24F_2C5F_41DA_0C977A28D500.label = Photo Album PanelGold
+album_C4E93F84_F24F_2C5F_41DA_0C977A28D500_0.label = PanelGold
 map_84B9474D_95E2_92C1_41B0_47613DE827A2.label = Map to/from Mangrove
 map_8B6D8075_95E1_8EC1_41E0_E5B30E7FFD57.label = Map at/around Mangrove
 panorama_79CAE9FB_742E_E5C0_41D4_90D007DBA0EE.label = S02B (02B)
@@ -454,6 +460,11 @@ questionOption_FD727F1F_D2D3_E479_41E0_AFEBA9880E41.text = Omnivore (feed on bot
 questionOption_FED7AF24_CE1F_D706_41DF_519B644C5C79.text = Noodle and rice
 questionOption_FF0487CF_D2F2_63D9_41E8_3CAF6B9982C8.text = high
 questionOption_FF61F60F_D2F2_6459_41E5_83C72E3BCA77.text = low
+
+### Qualification
+calification_C228C216_F251_547B_41E0_A617D2434C79.text = Gold
+calification_C22F4216_F251_547B_41E9_2D75BF59A8B7.text = Silver
+calification_C22F5217_F251_5479_41E7_C9974E248409.text = Bronze
 
 ### Score Name
 score1.label = Cognitive
