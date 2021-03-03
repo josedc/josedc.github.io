@@ -1,6 +1,9 @@
 {
  "name": "KGlam.life",
+ "description": "Kampong Glam virtual tour",
  "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -38,8 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "description": "Kampong Glam virtual tour",
- "start_url": "index.htm",
- "background_color": "#FFFFFF",
  "display": "fullscreen"
 }
