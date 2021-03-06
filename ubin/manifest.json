@@ -1,9 +1,7 @@
 {
- "start_url": "index.htm",
  "name": "Ubin Linear",
  "background_color": "#FFFFFF",
  "description": "DGF AD 360 Virtual Prototype",
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +39,7 @@
    "src": "misc/icon64.png"
   }
  ],
+ "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
  "display": "fullscreen"
 }
