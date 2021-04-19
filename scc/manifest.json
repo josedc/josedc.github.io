@@ -1,6 +1,7 @@
 {
  "name": "SCC for OH2021",
  "background_color": "#FFFFFF",
+ "description": "Student Care Centre",
  "theme_color": "#FFFFFF",
  "start_url": "index.htm",
  "icons": [
